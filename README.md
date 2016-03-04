@@ -20,8 +20,7 @@ As you read, pay special attention to addressing the following:
 
 Be prepared to share your notes with others before the discussion. Everyone should have something to contribute.
 
-[License](LICENSE)
-------------------
+## [License](LICENSE)
 
 Source code distributed under the MIT license. Text and other assets copyright
 General Assembly, Inc., all rights reserved.
