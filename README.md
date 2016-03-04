@@ -2,6 +2,10 @@
 
 # Reading: Relational and Non-relational Databases
 
+## Prerequisites
+
+-   [ga-wdi-boston/sql-crud](https://github.com/ga-wdi-boston/sql-crud)
+
 ## Instructions
 
 Read the following articles thoroughly. Practice active reading by taking notes.
