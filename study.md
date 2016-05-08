@@ -22,4 +22,9 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+Non-relational databases are well suited for semi-structured or unstructured data. Because they act like a collection of key-value pairs instead of a table with columns, they are less rigid than relational databases.
+
+
+With relational databases, the table structure and data types are fixed in advance. To store a new item, the entire database must be altered. With non-relational databases, aside from some validation, new data and dissimilar data types can be stored together quickley.
+
+Relational databases store in columns and rows, whereas non-relational databases usually only need keys and values.
